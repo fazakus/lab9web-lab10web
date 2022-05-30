@@ -6,7 +6,6 @@ Kelas : TI 20 B1<br>
 
 ## Praktikum 9
 
-Praktikum 9 ada pada foldre <b>lab9web</b>.<br>
 Disini saya akan membuat PHP modular sesuai dengan instruksi Praktikum 9.<br>
 
 ## Membuat Header
@@ -126,5 +125,3 @@ Di dalam halaman index, tambah dan ubah sudah saya implementasikan, berikut tamp
 ### Ubah Data
 ![Implementasi3](/lab9web/Pic/implementasi3.png)<br>
 
-## Praktikum 10
-Untuk Praktikum 10 berada pada folder <b>lab10web</b>.
