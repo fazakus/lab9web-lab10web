@@ -57,3 +57,59 @@ Pertama - tama saya membuat file dengan nama header.php dengan syntax berikut :<
 
 Berikut tampilannya :<br>
 ![header](/lab9web/Pic/navbar.png)
+
+## Membuat Footer
+Setelah membuat header, maka saya akan membuat Footernya. Saya membuat file baru dengan nama footer.php dengan syntax berikut :<br>
+```
+<div class="row">
+        <div class="col col-sm-12">
+            <div class="font-weight-bold bg-primary mb-1">
+                <div class="card-body text-center">
+                    Faza Ardan Kusuma - 312010001 - TI.20.B.1 <br>
+                    &copy; 2022 - Universitas Pelita Bangsa
+                </div>
+            </div>
+        </div>
+    </div>
+```
+
+Tampilan dari footer tersebut sebagai berikut :<br>
+![footer](/lab9web/Pic/footer.png)<br>
+
+## Home Page
+Disini saya mencoba membuat Home Page dengan mengambil header dan footer yang sudah dibuat sebelumnya dengan syntax berikut :<br>
+```
+<?php
+require('header.php');
+?>
+
+<div class="container-fluid">
+    <h2>Homepage</h2>
+    <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Cumque, labore recusandae laboriosam temporibus aut maiores aperiam libero dolores facere voluptates, corrupti saepe et, provident nemo voluptas praesentium quae hic. Temporibus.</p>
+</div>
+
+<?php require('footer.php'); ?>
+```
+Hasilnya : <br>
+![homepage](/lab9web/Pic/home.png)<br>
+
+## About Page
+Setelah home page, disini saya mencoba sekali lagi dengan membuat about page dengan syntax yang sama.
+```
+<?php
+require('header.php');
+?>
+
+<div class="container-fluid">
+    <h2>About page</h2>
+    <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Distinctio quas vero eveniet non. Aut, accusantium minima quo iure possimus vel labore quas dicta. Adipisci fuga aperiam laborum eaque doloribus molestiae.</p>
+</div>
+
+<?php require('footer.php'); ?>
+```
+
+Hasilnya : <br>
+![about](/lab9web/Pic/about.png)<br>
+
+## Implementasi
+Disini saya akan mengimplementasikan cara tersebut kedalam hasil praktikum sebelumnya.
