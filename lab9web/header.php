@@ -1,15 +1,3 @@
-# lab9web-lab10web
-Nama : Faza Ardan Kusuma<br>
-NIM : 312010001<br>
-Kelas : TI 20 B1<br>
-<hr>
-## Praktikum 9
-Praktikum 9 ada pada foldre <b>lab9web</b>.<br>
-Disini saya akan membuat PHP modular sesuai dengan instruksi Praktikum 9.<br>
-
-## Membuat Header
-Pertama - tama saya membuat file dengan nama header.php dengan syntax berikut :<br>
-```
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -53,7 +41,3 @@ Pertama - tama saya membuat file dengan nama header.php dengan syntax berikut :<
     </div>
 </body>
 </html>
-```
-
-Berikut tampilannya :<br>
-![header](/lab9web/Pic/navbar.png)
