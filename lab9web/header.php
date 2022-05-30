@@ -13,7 +13,7 @@
         <div class="row">
             <nav class="navbar navbar-expand-lg navbar-light bg-primary font-weight-bold">
                 <div class="container-fluid">
-                    <a class="navbar-brand" href="#">Navbar</a>
+                    <a class="navbar-brand" href="#"></a>
                     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
                         <span class="navbar-toggler-icon"></span>
                     </button>
@@ -23,10 +23,7 @@
                                 <a class="nav-link active" aria-current="page" href="#">Home</a>
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link" href="#">Tentang</a>
-                            </li>
-                            <li class="nav-item">
-                                <a class="nav-link" href="#">Kontak</a>
+                                <a class="nav-link" href="#">About</a>
                             </li>
                         </ul>
                     </div>
@@ -36,7 +33,7 @@
         <div class="row">
         </div>
         <header>
-            <h1>Modularisasi Menggunakan Require</h1>
+            <h1 class="text-center">Toko - Tokoan</h1>
         </header>
     </div>
 </body>

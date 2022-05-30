@@ -112,4 +112,14 @@ Hasilnya : <br>
 ![about](/lab9web/Pic/about.png)<br>
 
 ## Implementasi
-Disini saya akan mengimplementasikan cara tersebut kedalam hasil praktikum sebelumnya.
+Disini saya akan mengimplementasikan cara tersebut kedalam hasil praktikum sebelumnya.<br>
+Di dalam halaman index, tambah dan ubah sudah saya implementasikan, berikut tampilannya :<br>
+
+### Index
+![Implementasi1](/lab9web/Pic/implementasi.png)<br>
+
+### Tambah Data
+![Implementasi2](/lab9web/Pic/implementasi2.png)<br>
+
+### Ubah Data
+![Implementasi3](/lab9web/Pic/implementasi3.png)<br>
