@@ -1,3 +1,9 @@
+# lab10web
+Nama : Faza Ardan Kusuma<br>
+NIM : 312010001<br>
+Kelas : TI 20 B1<br>
+<hr>
+
 ## Praktikum 10
 Disini saya akan mempraktikkan yang ada pada modul Praktikum 10 yaitu tentang PHP OOP.<br>
 
